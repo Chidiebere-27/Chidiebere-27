@@ -9,6 +9,7 @@ Python | R | PostgreSQL | pandas | NumPy | scikit-learn | ggplot2
 **Machine learning**
 - Regression analysis project exploring housing price prediction using R.
 - Regression analysis project exploring Stroke prediction using R.
+
 **Data analysis / EDA**
   - Exploratory analysis of Shopping Trends using Python and pandas.
 
