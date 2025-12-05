@@ -6,6 +6,10 @@ I'm a Data Science & Analytics student at the University of Portsmouth, passiona
 Python | R | PostgreSQL | pandas | NumPy | scikit-learn | ggplot2
 
 ### Featured Projects
-
-
-- 
+**Machine learning**
+- Regression analysis project exploring housing price prediction using R.
+- Regression analysis project exploring Stroke prediction using R.
+**Data analysis / EDA**
+  - Exploratory analysis of Shopping Trends using Python and pandas.
+**App development**
+- Built Smart home device app using Python, Tkinter.
